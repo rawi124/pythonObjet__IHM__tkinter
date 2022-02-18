@@ -1,0 +1,39 @@
+Cette application permet de construire des scènes en 3D isométrique et les enregistrer.
+
+
+
+Principales rubriques d’aides :
+
+_ Placer des cubes sur la grille :
+
+  Il suffit de mettre le curseur de la souris sur une case de la grille puis cliquer sur le bouton gauche de la souris.
+
+_ Supprimer des cubes :
+
+  Pour supprimer un cube, Il suffit de mettre le curseur de la souris sur l’une de ses 3 faces puis cliquer sur le bouton droit de la souris.
+
+_ Augmenter le niveau de zoome :
+
+  Sur le pavé tactile du pc (Bouton-4), maintenez deux doigts sur une partie du pavé tactile, puis écartez-les pour zoomer vers l’avant.
+
+_ Diminuer le niveau de zoome :
+
+  Sur le pavé tactile du pc (Bouton-5), maintenez deux doigts sur une partie du pavé tactile, puis écartez-les pour zoomer vers l’arrière.
+
+_Choisir une couleur pour les cubes :
+
+  Cliquer sur le bouton « Cube » puis « Couleur », une petite fenêtre va s’ouvrir cliquer sur le bouton « sélectionner une couleur » puis sélectionner la couleur souhaitée en cliquant sur.
+
+  Une fois le choix est fait, valider votre choix avec le bouton « OK »
+
+_ Sauvegarder votre scène 3D :
+
+  Cliquer sur le bouton « Fichier » puis « sauver », une fenêtre va s’ouvrir, sélectionner le chemin vers le dossier ou vous souhaitez enregistrer votre scène 3D.
+
+  Dans la barre FILE NAME, donner un nom pour votre scène 3D puis valider en cliquant sur le bouton « Save » !
+
+  Si vous voulez annuler l’enregistrement, cliquer sur le bouton « Cancel ».
+
+_Quitter et fermer l’application :
+
+            Cliquer sur le bouton « Fichier » puis « sauver » pour fermer l’application.
